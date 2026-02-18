@@ -1,0 +1,1 @@
+Analysis of bottled water sales during extreme events, examining how disaster type, population impacts, power outages, and federal disaster aid influence purchasing behavior. The study quantifies lag time, duration, and event-related sales increases across hurricanes, winter storms, and the COVID-19 pandemic.
